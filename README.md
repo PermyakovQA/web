@@ -14,3 +14,6 @@ https://github.com/PermyakovQA/web/commit/ae2686b97cb7e26e05a1f0398941f3f1a87943
 
 Test run
 https://github.com/PermyakovQA/web/commit/ae2686b97cb7e26e05a1f0398941f3f1a8794332#diff-02e31b5c8dcfd039f405bb9fc21b831c5274e0987f7acb8df102b4168d6dce1a
+
+Работа в Proxyman
+https://drive.google.com/drive/folders/1Kv6ta6C81IQdTciKAUci8f5y5jp9_Iaj?hl=ru
